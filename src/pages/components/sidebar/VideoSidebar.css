@@ -1,0 +1,27 @@
+.videoSidebar {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  color: white;
+}
+
+.videoSidebar_heart {
+  padding: 20px;
+  text-align: center;
+}
+
+.videoSidebar_commentary {
+  padding: 20px;
+  text-align: center;
+}
+
+.videoSidebar_share {
+  padding: 20px;
+  text-align: center;
+}
+
+@media only screen and (max-width: 440px) {
+  .videoSidebar {
+    top: 46%;
+  }
+}
