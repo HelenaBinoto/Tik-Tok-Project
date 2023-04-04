@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
-Se liga -> (https://jornada-dev-helenabinoto1.web.app/) ^^ 
+Se liga -> [Projeto](https://jornada-dev-helenabinoto1.web.app/)
 
-Check this -> (https://jornada-dev-helenabinoto1.web.app/) ^^ 
+Check this -> [Project](https://jornada-dev-helenabinoto1.web.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
